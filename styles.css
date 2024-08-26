@@ -1,0 +1,22 @@
+body {
+    border: 3px solid;
+}
+.big {
+    font-size: 250%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#img1 {
+    float: right;
+    margin-right: 10px;
+}
+.control {
+    float: right;
+    margin-right: 10px;
+    }
+#img2 {
+    margin-left: 60px;
+    bottom: 0cqmaxS;
+}
+.control2 {
+    margin-left: 60px;
+}
